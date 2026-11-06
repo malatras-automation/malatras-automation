@@ -10,12 +10,13 @@ and automation**.
 | --- | --- |
 | [cable_sizer](https://github.com/malatras-automation/cable_sizer) | Selects the smallest cable cross-section that passes Iz and the 3 % voltage drop limit (IEC 60364) |
 | [breaker_load_check](https://github.com/malatras-automation/breaker_load_check) | Checks measured circuit currents against the breaker rating and flags overloaded circuits |
+| [csv_load_report](https://github.com/malatras-automation/csv_load_report) | Reads circuit currents from an Excel CSV export, checks them against the breaker rating and saves a report |
 
 ## Skills
 
 - **Electrical:** Industrial installations, measurements, IEC 60364 / NEN 1010
-- **Python:** functions, lists, dictionaries, loops, clean and tested code
-- **Learning now:** working with files and Excel automation
+- **Python:** functions, lists, dictionaries, loops, clean and tested code, reading and writing files (TXT, CSV)
+- **Learning now:** Excel automation (openpyxl)
 - **Next:** PLC programming and SCADA
 
 ## Work with me
