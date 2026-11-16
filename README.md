@@ -11,7 +11,7 @@ and automation**.
 | [cable_sizer](https://github.com/malatras-automation/cable_sizer) | Selects the smallest cable cross-section that passes Iz and the 3 % voltage drop limit (IEC 60364) |
 | [breaker_load_check](https://github.com/malatras-automation/breaker_load_check) | Checks measured circuit currents against the breaker rating and flags overloaded circuits |
 | [csv_load_report](https://github.com/malatras-automation/csv_load_report) | Reads circuit currents from an Excel CSV export, checks them against the breaker rating and saves a report |
-| [excel_load_report](https://github.com/malatras-automation/excel_load_report) | Reads circuit loads.xlsx from an Excel file and reports in an Excel file which circuits are overloaded against a breaker of 16 A |
+| [excel_load_report](https://github.com/malatras-automation/excel_load_report) | Reads circuit loads.xlsx, checks them against a 16 A breaker and saves an Excel report |
 
 
 ## Skills
