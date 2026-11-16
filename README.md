@@ -17,8 +17,8 @@ and automation**.
 ## Skills
 
 - **Electrical:** Industrial installations, measurements, IEC 60364 / NEN 1010
-- **Python:** functions, lists, dictionaries, loops, clean and tested code, reading and writing files (TXT, CSV)
-- **Learning now:** Excel automation (openpyxl)
+- **Python:** functions, lists, dictionaries, loops, clean and tested code, reading and writing files (TXT, CSV, Excel)
+- **Learning now:** working with folders and multiple files
 - **Next:** PLC programming and SCADA
 
 ## Work with me
