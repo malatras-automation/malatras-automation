@@ -12,6 +12,7 @@ and automation**.
 | [breaker_load_check](https://github.com/malatras-automation/breaker_load_check) | Checks measured circuit currents against the breaker rating and flags overloaded circuits |
 | [csv_load_report](https://github.com/malatras-automation/csv_load_report) | Reads circuit currents from an Excel CSV export, checks them against the breaker rating and saves a report |
 | [excel_load_report](https://github.com/malatras-automation/excel_load_report) | Reads circuit currents, checks them against a 16 A breaker and saves an Excel report |
+| [ excel_monthly_report](https://github.com/malatras-automation/excel_monthly_report) | Reads .xlsx files from the data folder, sums current (A) values per file and overall, and exports a summary report to summary.xlsx. |
 
 
 ## Skills
